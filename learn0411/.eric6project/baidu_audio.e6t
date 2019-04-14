@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project baidu_audio -->
+<!-- Saved: 2019-04-14, 10:32:10 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{7ab957a2-bf81-427c-bcf2-fa11bd3a16e0}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-04-14, 10:15:05</Created>
+    <Resource>
+      <Filename>main.py</Filename>
+      <Linenumber>140</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{3a7ff7be-3d78-44f3-8e55-7b5362212221}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-04-14, 10:15:05</Created>
+    <Resource>
+      <Filename>main.py</Filename>
+      <Linenumber>148</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{f09d39b7-cd94-4797-880e-a4cf99118519}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-04-14, 10:15:05</Created>
+    <Resource>
+      <Filename>main.py</Filename>
+      <Linenumber>164</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{8fe50506-4c4d-403d-a864-e4c36f0c276d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-04-14, 10:15:05</Created>
+    <Resource>
+      <Filename>main.py</Filename>
+      <Linenumber>172</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

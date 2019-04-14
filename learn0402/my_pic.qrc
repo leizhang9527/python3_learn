@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>source/icon/About.png</file>
+    <file>source/icon/Break.png</file>
+    <file>source/icon/Check.png</file>
+    <file>source/icon/Close.png</file>
+    <file>source/icon/Copy.png</file>
+    <file>source/icon/Cut.png</file>
+    <file>source/icon/New.png</file>
+    <file>source/icon/Open.png</file>
+    <file>source/icon/Paste.png</file>
+    <file>source/icon/Save.png</file>
+  </qresource>
+  <qresource prefix="pic">
+    <file>source/pic/7.jpg</file>
+    <file>source/pic/8.jpg</file>
+    <file>source/pic/6.jpg</file>
+    <file>source/pic/1.png</file>
+    <file>source/pic/2.jpg</file>
+    <file>source/pic/3.jpg</file>
+    <file>source/pic/4.jpg</file>
+    <file>source/pic/5.jpg</file>
+  </qresource>
+</RCC>
